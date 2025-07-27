@@ -2,7 +2,7 @@
 
 *Meet Olivia, your intelligent real-time voice AI companion*
 
-![Olivia Avatar Demo](assets/olivia-demo-header.png)
+![Olivia Avatar Demo](https://github.com/oms0401/Olivia-voice-assitant/blob/db21afa545975b6dac356497fd0e697fdd861c41/olivia.png)
 
 A sophisticated real-time, interactive voice AI assistant powered by LiveKit Agents, OpenAI's GPT-4o Realtime API, Tavily web search, and a lifelike video avatar by Tavus. Olivia engages in natural conversations, provides intelligent responses with web search capabilities, and presents herself through a synchronized video avatar for an immersive user experience.
 

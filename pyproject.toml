@@ -1,0 +1,15 @@
+[project]
+name = "avatar-voice-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckduckgo-search>=8.1.1",
+    "langchain-community>=0.3.27",
+    "langchain-tavily>=0.2.11",
+    "livekit>=1.0.11",
+    "livekit-agents[openai,rime,silero,tavus,turn-detector]~=1.0",
+    "livekit-plugins-noise-cancellation~=0.2",
+    "python-dotenv>=1.1.1",
+]

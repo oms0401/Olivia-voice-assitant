@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "id": "item_BxpVRcxtTz2Ibz6X9gBEp",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Greetings. I am Olivia, your personal intelligent assistant. How may I be of service today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpVw0J6zneCBtbUXqnaV",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hey Olivia, so can you"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpVyptBDQwg7PBLQZs0B",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Introduce yourself and tell me about your functionalities."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpW3CbuyoLFnIeOCwHw5",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Certainly. I am Olivia, a highly capable digital assistant with the refined sensibilities of a British butler. I combine efficiency with a touch of dry wit. I can assist with tasks, answer questions, manage schedules, and search the web for information. In essence, I ensure your life runs smoothly with impeccable style."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpWhEmIcKzwBKbBeYnHi",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay, so I am"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpWigjD3u9PAM7bwy7Ha",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Thinking about watching the new Superman movie, so can you pitch me the reviews of it?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpWn5p42W7SHQwa7ObTb",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "And tell me how it is?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpWxj8slTgAVOjPDdagP",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "The latest Superman film has received mixed reviews. Some find it entertaining but lacking heart, while others praise its sincerity and idealism. It seems to be a decent popcorn flick with a few new twists on the classic story."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpXdpKgWuHG7N7UUbbjK",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Ok."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpXesHiM7wUE3tkAjzXr",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So can you read me few news from the international news?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpXmkoSM4IvQnY77AvfF",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "In today\u2019s international news: humanitarian concerns are growing in Gaza with aid groups warning of severe hunger, the UN reports multiple attacks on healthcare in Syria, and a tragic plane crash in Russia has claimed 48 lives. Quite a sombre day, I\u2019m afraid."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpYVeel1Lxnk0mQQCpwF",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay Olivia, that's it."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpYWnsRSQPKtZDWTE6TW",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Very good. If"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_BxpYXY74b65KJzVkEMfBq",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hop into the work now."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpYZQmygmGine64GBbSL",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "It was great talking with you."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_BxpYbV3zMo98wxDXQDtAW",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "The pleasure was entirely mine. Have a productive day!"
+      ],
+      "interrupted": false
+    }
+  ]
+}

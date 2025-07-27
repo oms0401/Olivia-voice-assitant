@@ -140,9 +140,6 @@ olivia-voice-avatar/
 ├── .env                 # Environment variables (create this)
 ├── requirements.txt     # Python dependencies
 ├── summary.json         # Generated conversation transcripts
-└── assets/             # Demo media and screenshots
-    ├── olivia-demo-header.png
-    └── olivia-conversation-demo.mp4
 ```
 
 ### Key Components
